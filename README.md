@@ -2,6 +2,8 @@
 
 ## How to run this application using docker
 
+Install [Docker](https://docs.docker.com/get-docker/) on your machine
+
 create a `.env` file with the content
 
 ```.env
@@ -20,6 +22,5 @@ or using docker compose
 ```bash
 docker compose up
 ```
-
 
 When started, it should be accessible via http://localhost:5173
